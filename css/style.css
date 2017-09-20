@@ -62,6 +62,66 @@ header #main-navigation ul li a:hover {
     transition: 0.3s ease all;
 } 
 
+/* MAIN CONTENT */
+
+/* HERO SECTION */
+
+.hero {
+	/*	min-height: 800px;*/
+	text-align: center;
+	background: #555;
+	background-image: url('/css/img/background-image.jpeg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	/*	position: relative;*/
+	background-attachment: fixed;
+}
+
+.hero-content {
+	color: white;
+	padding-top: 130px;
+	line-height: 1;
+}
+
+.hero-title {
+	margin: 0;
+	font-size: 100px;
+}
+
+.hero-content p {
+    font-size: 50px; 
+    margin-bottom: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* FOOTER */
 
