@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 16;
+	line-height: 1.5;
+}
+
+/* HEADER STYLES */
+
+header {
+	background: #222;
+	color: #fff;
+	padding: 20px 30px;
+}
+
+/* logo nest inside header */
+
+header #page-header {
+	color: white;
+	text-decoration: none;
+	width: 49%;
+	display: inline-block
+}
+
+header img {
+	width: 50px;
+	border-radius: 50%;
+	margin-right: 8px;
+	vertical-align: middle;
+}
+
+header h2 {
+  font-size: 16px;
+}
